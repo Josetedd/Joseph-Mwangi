@@ -1,4 +1,3 @@
-# Joseph Mwangi
 ## Data Analyst | Information manager
 
 # About Me
