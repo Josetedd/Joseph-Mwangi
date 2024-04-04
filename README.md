@@ -1,5 +1,3 @@
-## Data Analyst | Information manager
-
 # About Me
 Results-driven Information Management Specialist and Data Analyst with over 8 years of experience in Systems Development & Management. Over the past 5 years, I have dedicated my expertise to the humanitarian sector, delivering technical solutions for Education, WASH, and Livelihood services for refugees, as well as other communities in need. Recent focus on mixed migration research has expanded my insights into complex migration dynamics, enriching my skill set. 
 My passion lies in harnessing technology to address challenges faced by vulnerable populations, bringing a unique blend of technical acumen and humanitarian impact to projects in challenging environments.
